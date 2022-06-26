@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=accde8&height=400&section=header&text=Dia%20Lee&fontSize=90)<br/>
+![header](https://capsule-render.vercel.app/api?type=wave&color=accde8&height=200&section=header&text=Dia%20Lee&fontSize=90)<br/>
 <p align="center">💎👩‍💻🍎</p>
 
 <h3 align="center">🛠 Skill Stack 🛠</h3>
