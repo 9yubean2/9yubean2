@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=accde8&height=200&section=header&text=Dia%20Lee&fontSize=45)<br/>
-![dia](https://user-images.githubusercontent.com/80504636/175821557-7a7c995e-d697-48e3-9e44-22ccc6ee611e.png?width=50&height=50)<br/>
+![dia](https://user-images.githubusercontent.com/80504636/175821557-7a7c995e-d697-48e3-9e44-22ccc6ee611e.png?width=50px&height=50px)<br/>
 <h2 align="center">💎👩‍💻🍎</h2>
 
 <h3 align="center">🛠 Skill Stack 🛠</h3>
