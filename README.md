@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=accde8&height=200&section=header&text=Dia%20Lee&fontSize=45)<br/>
 
-<h2 align="center">💎👩‍💻🍎</h2>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:74A8C0,100:E57392&height=250&section=header&text=💎%20Dia%20Lee%20💎&fontSize=45&fontColor=ffffff)<br/>
 
 <h3 align="center">🚀 Skill Stack 🚀</h3>
 
@@ -39,7 +38,13 @@
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a> 
 
-
 </p>
+<br/>
+
+<p align="center">
+</a>&nbsp
+<a href="https://github.com/9yubean2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=9yubean2&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="DiaLee's github stats" /></a> &nbsp
+ 
+ </p>
 
 
