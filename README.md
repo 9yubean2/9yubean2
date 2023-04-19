@@ -45,7 +45,7 @@
 
 <p align="center">
 </a>&nbsp
-<a href="https://github.com/9yubean2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=9yubean2&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="DiaLee's github stats" /></a> &nbsp
+<a href="https://github.com/9yubean2"><img align="center" style="height:180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=9yubean2&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="DiaLee's github stats" /></a> &nbsp
  
  </p>
 
