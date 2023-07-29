@@ -1,5 +1,17 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:74A8C0,100:E57392&height=250&section=header&text=💎%20Dia%20Lee%20💎&fontSize=45&fontColor=ffffff)<br/>
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74A8C0,100:E57392&height=250&section=header&text=💎%20Dia%20Lee%20💎&fontSize=45&fontColor=ffffff"/>
+</p>
+ <br/>
+
+<h3 align="center">🎖️ Certificate 🎖️</h3>
+<p align="center">
+ </a>&nbsp
+ <img width="120" src="https://github.com/9yubean2/9yubean2/assets/80504636/0bd15fd5-d16f-4556-ab9d-9e19f143b49e"/>
+ <img width="120" src="https://github.com/9yubean2/9yubean2/assets/80504636/d97e85db-e70d-437b-becb-90e9a698d11b"/>
+</p>
+
+<br>
 
 <h3 align="center">🚀 Skill Stack 🚀</h3>
 
@@ -35,7 +47,7 @@
 <p align="center">
 </a>&nbsp
    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white"/></a>&nbsp
   </br>
   </a>&nbsp
