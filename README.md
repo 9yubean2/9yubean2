@@ -1,8 +1,7 @@
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74A8C0,100:E57392&height=250&section=header&text=💎%20Dia%20Lee%20💎&fontSize=45&fontColor=ffffff"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74A8C0,100:E57392&height=250&section=header&text=@9yubean_2&fontSize=45&fontColor=ffffff"/>
 </p>
- <br/>
 
 <h3 align="center">🎖️ Certificate 🎖️</h3>
 <p align="center">
