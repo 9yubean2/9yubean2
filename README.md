@@ -64,7 +64,11 @@
 <p align="center">
 </a>&nbsp
 <a href="https://github.com/9yubean2"><img align="center" style="height:180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=9yubean2&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="DiaLee's github stats" /></a> &nbsp
- 
+
+
+
  </p>
 
-
+ <p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9yubean2%2Fhit-counter&count_bg=%23DBDBDB&title_bg=%23FFB0C6&icon=git.svg&icon_color=%23F1E2F5&title=hits&edge_flat=false"/></a>
+ </p>
